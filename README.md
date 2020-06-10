@@ -1,6 +1,6 @@
 # Covid_19_Analises
 
-Aplicações de análises de séries temporais nos dados de Covid para Jaraguá do Sul e Joinville utilizando os dados até 03/06/2020
+Aplicações de análises de séries temporais nos dados de Covid para Jaraguá do Sul  utilizando os dados até 03/06/2020
 fornecidos até então pelo Ministério da Saúde. Do dia 04/06/2020 em diante fonte é o Brasil.io
 
 ## Fontes de dados: https://covid.saude.gov.br/ e https://brasil.io/dataset/covid19/caso/
